@@ -128,7 +128,7 @@ Use VS Code + Live Server extension for better development experience.
 
 ## 👨‍💻 Author
 
-**AR Robotics**  
+**Nova Core**  
 GitHub: https://github.com/Time7874/Shophub.git
 
 ---
